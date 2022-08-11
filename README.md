@@ -8,13 +8,13 @@ I'm Yeison Suarez, a very passionate and self-taught frontend developer from Col
 - 🤔 I’m looking for help with how to become a more optimal programmer
 - 📫 How to reach me: 
   
-  <code>
   <pre>
+  <code>
     let yeisonSuarez = {
       email: "yeisong12ayeisondavidsuarezg12@gmail.com",
       phoneNumber: +573104156262,
     }
-    </pre>
   </code>
+  </pre>
 
 Can't wait to collaborate with you!
