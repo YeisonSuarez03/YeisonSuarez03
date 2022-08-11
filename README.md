@@ -12,7 +12,7 @@ I'm Yeison Suarez, a very passionate and self-taught frontend developer from Col
   <code>
     let yeisonSuarez = {
       email: "yeisong12ayeisondavidsuarezg12@gmail.com",
-      phoneNumber: +573104156262,
+      phoneNumber: "+573104156262",
     }
   </code>
   </pre>
