@@ -17,7 +17,7 @@ I'm Yeison Suarez, a very passionate and self-taught frontend developer from Col
     }
   </code>
   </pre>
-  <a href="tel:+573104156262">Text me!</a>
+  <a href="tel:573104156262">Text me!</a><br/><br/>
   <a href="mailto:yeisong12ayeisondavidsuarezg12@gmail.com">Email me!</a>
 
 Can't wait to collaborate with you!
