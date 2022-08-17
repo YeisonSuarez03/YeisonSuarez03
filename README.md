@@ -10,11 +10,14 @@ I'm Yeison Suarez, a very passionate and self-taught frontend developer from Col
   
   <pre>
   <code>
-    let yeisonSuarez = {
+    let contact = {
+      name: "Yeison Suarez",
       email: "yeisong12ayeisondavidsuarezg12@gmail.com",
       phoneNumber: "+573104156262",
     }
   </code>
   </pre>
+  <a href="tel:+573104156262">Text me!</a>
+  <a href="mailto:yeisong12ayeisondavidsuarezg12@gmail.com">Email me!</a>
 
 Can't wait to collaborate with you!
